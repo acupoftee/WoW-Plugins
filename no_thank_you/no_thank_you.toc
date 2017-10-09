@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: no thank you
+## Author: unmatched_sock https://github.com/bethyd
+## Version: 1.0
+## Notes: Hides all channel invitations.
+nothankyou.xml
+nothankyou.lua
