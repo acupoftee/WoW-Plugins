@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ChatInvite|cff60ff00Blocker|r
+## Author: EinBaum https://github.com/EinBaum
+## Version: 1.0
+## Notes: Hides all channel invitations.
+ChatInviteBlocker.xml
+ChatInviteBlocker.lua
